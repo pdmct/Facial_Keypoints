@@ -72,8 +72,7 @@ pip install -r requirements.txt
 
 ### Data
 
-Data not included in repo
-
+Training and Test data is in the data directory. keypoints that match the imnages are included in the .csv files.
 
 ## Notebooks
 
